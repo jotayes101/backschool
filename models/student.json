@@ -1,0 +1,70 @@
+{
+  "_id" : "52cdef7c4bab8bd675297d8e",
+  "created_at" : "Fri May 25 21:22:15 UTC 2007",
+	"updated_at" : "Thu Nov 21 19:40:55 UTC 2013",
+  "document_number": 2555522255,
+  "document_type": "Tarjeta de identidad",
+  "document_place": "Sincelejo",
+  "first_name": "Felipe Mario",
+  "last_name" : "Ebersman Suarez",
+  "address" : "Cra 25 # 15-64, Barrio San Miguel, Comuna 8",
+  "status": "active",
+  "mother_data" : {
+    "first_name": "Juana Maria",
+    "last_name" : "De Arco",
+    "document_number": 2555522255,
+    "occupation": "Heroina"
+  },
+  "father_data" : {
+    "first_name": "Cristiano Andres",
+    "last_name" : "Ronaldo",
+    "document_number": 2555522255,
+    "occupation": "Futbolista"
+  },
+  "attendant" : {
+    "first_name": "Cristiano Andres",
+    "last_name" : "Ronaldo",
+    "document_number": 2555522255,
+    "occupation": "Futbolista",
+    "address" : "Cra 25 # 15-64, Barrio San Miguel, Comuna 8",
+    "phone_number": "6424337",
+    "mobile_number": "3185197643"
+  },
+  "enrollments": [
+    {
+      "year": 2005,
+      "cycle": "Preescolar",
+      "school_year": "Pre-Jardin",
+      "folio": 255,
+      "status": "A"
+    },
+    {
+      "year": 2008,
+      "cycle": "Primaria",
+      "school_year": "Primero",
+      "folio": 12,
+      "status": "R"
+    },
+    {
+      "year": 2010,
+      "cycle": "Primaria",
+      "school_year": "Segundo",
+      "folio": 178,
+      "status": "A"
+    },
+    {
+      "year": 2016,
+      "cycle": "Secundaria",
+      "school_year": "Octavo",
+      "folio": 78,
+      "status": "A"
+    },
+    {
+      "year": 2018,
+      "cycle": "Media",
+      "school_year": "Decimo",
+      "folio": 178,
+      "status": "C"
+    }
+  ]
+}
